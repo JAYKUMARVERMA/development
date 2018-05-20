@@ -1,2 +1,4 @@
 # development
-demo
+HELLO EVERYONE
+
+TODAY IS MY FIRST DAY.
